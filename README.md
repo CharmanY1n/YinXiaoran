@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-## I'm [Your Name]
+## I'm [Yin Xiaoran/Charman]
 
 - 🌱 I’m currently learning [Agent,Embodied AI,LLM..]
 - 💼 My work is [Student of UESTC]
