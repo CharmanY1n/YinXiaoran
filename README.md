@@ -1,30 +1,30 @@
-# 欢迎访问我的GitHub主页 👋
+# Welcome to My GitHub Profile 👋
 
-## 我是尹虓然
+## I'm [Your Name]
 
-- 🌱 我目前在学习 [Agent,Emobided AI]
-- 💼 我的工作是 [Student]
-- 📫 如何联系我: [yxr949875779@gmail.com] |
-- ⚡ 趣味事实: [I'm fking lazy]
+- 🌱 I’m currently learning [Agent,Embodied AI,LLM..]
+- 💼 My work is [Student of UESTC]
+- 📫 How to reach me: [yxr949875779@gmail.com] | [949875779 for QQ] | [yinjiuhu for twitter]
+- ⚡ Fun fact: [I'm a big fan of Kim Chaewon]
 
-### 我的兴趣
-- [兴趣点1]: 描述一下这个兴趣
-- [兴趣点2]: 描述一下这个兴趣
+### My Interests
+- [Interest 1]: Ping Pong/Table Tennis
+- [Interest 2]: League of Legends/Valorant
 - ...
 
-### 技术栈
-- 程序语言: [比如 Python, JavaScript, Go等]
-- 工具 & 框架: [比如 React, Django, Docker等]
-- 其他: [任何你想分享的技术相关的事物]
+### Tech Stack
+- Programming Languages: [ Python, C , JAVA, .]
+- Tools & Frameworks: [ GPT, GEMINI, Docker, etc.]
+- Others: [Recently learn something about Server]
 
-### 最近的项目
-- **项目名称**: 简短描述
-- **项目链接**: [项目仓库链接](https://github.com/yourusername/projectname)
-- **使用的技术**: 列出技术栈
+### Recent Projects
+- **Project Name**: A Multimodal Smartphone Agent with World Models of Apps
+- **Project Link**: [Repository link](https://github.com/yourusername/projectname)
+- **Technologies Used**: List the tech stack
 
-### 统计数据
+### GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-记得给我点赞！🌟
+Don't forget to give a star! 🌟
